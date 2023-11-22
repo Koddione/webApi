@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rDnYu/JiCi9HcV4NU0evRQeYX8+vsCuXpANbkaG+rFuvI2cbalCL8n3Rzz3KRKaX6V3DJ3m1xVEVW/VHXK/8A==",
+  "success": true,
+  "projectFilePath": "D:\\работа\\TCPChat-master\\TCPChat.Client\\TCPChat.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mixer\\.nuget\\packages\\devexpressmvvm\\21.1.5\\devexpressmvvm.21.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
